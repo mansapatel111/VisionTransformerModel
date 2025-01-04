@@ -2,7 +2,7 @@
 This Vision Transformer implementation adapts the Transformer architecture — originally designed for sequences — to process 2D, 3D and 4D images. 
 
 Set Up:
-* Begin with clone this repo and then navingating to your repository. Start with using cd my_repository in your terminal to get to the appropriate folder.
+* Begin with cloning this repo and then navingating to your repository. Start with using cd my_repository in your terminal to get to the appropriate folder.
 
 * You must create a virtual environment and download all the dependencies. Use the following commands for this: Create a virtual environment: python3 -m venv myenv Running the virtual environment for mac: source myenv/bin/activate Running the virtual environment for windows: .\myenv\Scripts\activate.ps1
   
