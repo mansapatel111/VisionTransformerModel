@@ -1,5 +1,5 @@
 
-This Vision Transformer implementation (VisionTransformer2D) adapts the Transformer architecture — originally designed for sequences — to process 2D, 3D and 4D images. 
+This Vision Transformer implementation adapts the Transformer architecture — originally designed for sequences — to process 2D, 3D and 4D images. 
 
 Set Up:
 * Begin with clone this repo and then navingating to your repository. Start with using cd my_repository in your terminal to get to the appropriate folder.
