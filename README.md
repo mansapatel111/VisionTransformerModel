@@ -1,6 +1,8 @@
 
-This Vision Transformer implementation adapts the Transformer architecture — originally designed for sequences — to process 2D, 3D and 4D images. 
 🚀 Summary of the project:
+
+This Vision Transformer implementation adapts the Transformer architecture — originally designed for sequences — to process 2D, 3D and 4D images. 
+
 
 - Developed and optimized a Vision Transformer (ViT) for autoregressive weather forecasting, leveraging techniques from state-of-the-art AI models (GraphCast, Pangu-Weather, GenCast).
 - Implemented autoregressive modeling, scheduled sampling, and multi-scale loss functions to enhance predictive accuracy and reduce long-term error accumulation.
